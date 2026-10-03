@@ -1,0 +1,6 @@
+# Search, answer and training crawlers are all welcome: these are open
+# reference architectures published so people and agents can learn from them.
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammadumar89.github.io/codeninja-research/sitemap.xml
